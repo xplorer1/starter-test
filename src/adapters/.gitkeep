@@ -1,0 +1,2 @@
+# I/O boundaries. Each is an interface plus an implementation, so the pure
+# domain layer can be tested without mocks.

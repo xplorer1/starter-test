@@ -1,0 +1,2 @@
+# Pure domain layer: hashing, canonicalization, signature and proof verification.
+# No filesystem, no network, no clock. See test/architecture.test.ts.
